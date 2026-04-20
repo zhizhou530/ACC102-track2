@@ -18,16 +18,15 @@ AAPL and MSFT provide more stable and consistent performance
 Strong correlation exists between AAPL and MSFT
 Diversification across stocks reduces overall investment risk
 ## 5. How to run
-1.Install dependencies:
-pip install wrds pandas matplotlib seaborn
-2.Run the Python script:
-python stock_analysis.py
+1.Install dependencies:pip install wrds pandas matplotlib seaborn
+2.Run the Python script:python stock_analysis.py
 3.Make sure you have a valid WRDS account for database access
 ## 6. Product link / Demo
 ## 7. Limitations & next steps
 The analysis uses only three stocks, which limits generalizability
 Monthly data may overlook short-term volatility
 No macroeconomic or factor models are included
+
 Future improvements:
 Add more stocks for portfolio analysis
 Apply CAPM or Fama-French models
