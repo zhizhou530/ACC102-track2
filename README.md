@@ -1,4 +1,3 @@
-README template (copy and adapt)
 # WRDS Stock Risk and Return Analysis
 ## 1. Problem & User
 This project analyzes the risk–return trade-off of selected stocks using WRDS data. It is designed for beginner investors who want to understand how volatility and return differ across stocks.
