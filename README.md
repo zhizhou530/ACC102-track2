@@ -33,7 +33,8 @@ Diversification across stocks reduces overall investment risk
 2.Run the Python script:python stock_analysis.py
 
 3.Make sure you have a valid WRDS account for database access
-## 6. Product link / Demo
+## 6. Product link
+https://github.com/zhizhou530/ACC102-track2/tree/main
 ## 7. Limitations & next steps
 The analysis uses only three stocks, which limits generalizability
 
