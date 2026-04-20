@@ -34,7 +34,7 @@ Diversification across stocks reduces overall investment risk
 
 3.Make sure you have a valid WRDS account for database access
 ## 6. Product link
-acc102.ipynb
+[acc102.ipynb](https://github.com/zhizhou530/ACC102-track2/blob/main/acc102.ipynb)
 ## 7. Limitations & next steps
 The analysis uses only three stocks, which limits generalizability
 
